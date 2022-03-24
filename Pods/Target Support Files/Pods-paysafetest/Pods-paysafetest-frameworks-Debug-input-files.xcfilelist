@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-paysafetest/Pods-paysafetest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Paysafe_SDK/Paysafe_SDK.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Paysafe_SDK/CardinalMobile.framework/CardinalMobile

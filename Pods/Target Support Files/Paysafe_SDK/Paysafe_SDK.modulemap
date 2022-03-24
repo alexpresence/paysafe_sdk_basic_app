@@ -1,0 +1,6 @@
+framework module Paysafe_SDK {
+  umbrella header "Paysafe_SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
