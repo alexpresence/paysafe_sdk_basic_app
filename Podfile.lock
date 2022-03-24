@@ -1,0 +1,16 @@
+PODS:
+  - Paysafe_SDK (2.4.0)
+
+DEPENDENCIES:
+  - Paysafe_SDK
+
+SPEC REPOS:
+  trunk:
+    - Paysafe_SDK
+
+SPEC CHECKSUMS:
+  Paysafe_SDK: ab85cd75b3c2a0b542de0b0614108c7787e096a1
+
+PODFILE CHECKSUM: 045bedb0fe3ffe8331a27701c742a7dce10693f9
+
+COCOAPODS: 1.11.3
